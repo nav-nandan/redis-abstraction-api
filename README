@@ -1,0 +1,12 @@
+
+	>> Redis abstraction api written in Clojure <<
+
+      Makes use of labs-redis and redis-clojure libraries
+
+
+	   Application -> Real-time processing cache
+
+
+	   Uses Leiningen for dependency management
+
+		   Code written using Emacs
